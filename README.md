@@ -1,1 +1,1 @@
-To view: http://github.helenewin.io/kt-workshop-template
+To view: http://helenewin.github.io/kt-workshop-template
